@@ -7,7 +7,7 @@ I'm a Computer Vision Engineer with over two years of experience in AI and deep 
 
 # 📂 Projects:
 ## [DynaRAG - Dynamic Retrieval-Augmented Generation for Any Document](https://github.com/ahmedshafiq12/DynaRAG):
-![Watch Demo](assests/gif5.gif)
+![Watch Demo](assests/answer-with-results.png)
 
 DynaRAG is a fully dynamic RAG engine designed to transform any document—PDFs, text files, Word docs, slides, or entire folders—into a real-time, queryable knowledge base.
 
