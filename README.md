@@ -6,6 +6,11 @@
 I'm a Computer Vision Engineer with over two years of experience in AI and deep learning. My work primarily focuses on building and optimizing computer vision models for real-world applications, specializing in tasks such as object detection, real-time video analysis, and edge deployment. I have hands-on experience with various AI frameworks and enjoy tackling complex challenges to create impactful solutions.
 
 # 📂 Projects:
+## [DynaRAG - Dynamic Retrieval-Augmented Generation for Any Document](https://github.com/ahmedshafiq12/DynaRAG):
+![Watch Demo](assests/gif5.gif)
+
+DynaRAG is a fully dynamic RAG engine designed to transform any document—PDFs, text files, Word docs, slides, or entire folders—into a real-time, queryable knowledge base.
+
 ## [ACELYTICS (MMA - Tennis)](https://mvp.acelytics.ai/):
 ![Watch Demo](assests/tennis.gif)
 ![Watch Demo](assests/MMA.gif)
